@@ -1,7 +1,7 @@
 from fastapi import APIRouter, HTTPException
-from models.schema import UserRequest
-from services.recommender import recommend_books
-from data.loader import load_pt, load_similarity, load_final_df, load_popular_df
+from app.models.schema import UserRequest
+from app.services.recommender import recommend_books
+from app.data.loader import load_pt, load_similarity, load_final_df, load_popular_df
 
 router = APIRouter()
 
