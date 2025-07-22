@@ -5,6 +5,7 @@
 This project develops a **Book Recommender System** designed to help users discover new books based on their preferences and the behavior of similar readers. In an age of overwhelming choices, a good recommendation system is crucial for enhancing user experience and increasing engagement. This system aims to provide personalized book suggestions, making the discovery process intuitive and enjoyable.
 
 * **Live APP :** [Link](https://book-recommendation-ui.vercel.app/)
+* **Live Video Demo :** [Link](https://drive.google.com/file/d/1eEEa1PsGwSGztfpZhaQLLXfJVF58f-9D/view?usp=sharing)
 
 ## Features
 
