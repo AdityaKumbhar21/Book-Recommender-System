@@ -84,7 +84,6 @@ Feel free to reach out if you have any questions or feedback!
 
 * **GitHub:** [https://github.com/AdityaKumbhar21](https://www.google.com/search?q=https://github.com/AdityaKumbhar21)
 
-* **LinkedIn:** \[Your LinkedIn Profile URL\]
 
 ## License
 
